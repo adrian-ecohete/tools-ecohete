@@ -12,7 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             height: auto;
             /* line-height: 700px; */
             margin: 90px 16%;
-            text-align: center;
+            text-align: center; 
         }
         .font_al{
             color:#9990ed;
